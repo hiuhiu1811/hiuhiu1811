@@ -1,6 +1,6 @@
 ---
-last_synced: 2026-10-13T15:18:55.963Z
-total_tasks: 6
+last_synced: 2026-10-13T15:19:03.751Z
+total_tasks: 7
 timezone: Asia/Bangkok
 tags:
   - journal
@@ -10,6 +10,7 @@ tags:
 
 | Completed | Task | Date | Time | Duration | Priority | Tags | Description | Link | CalendarEventId | Log | RecurrenceRule |
 | :-------- | :-------- | :-------- | :-------- | :-------- | :-------- | :-------- | :-------- | :-------- | :-------- | :-------- | :-------- |
+| [ ] | Bài tập nhóm quản trị chất lượng |  |  |  |  |  | Nhóm ứng dụng các công cụ quản trị chất lượng. |  |  |  |  |
 | [ ] | Gửi phản biện Cogent | 2026-10-17 |  | 1:00 |  |  | Handle Cogent's objection with insights and details until Oct 17th. |  |  |  |  |
 | [ ] | Soạn slide hội thảo | 2026-10-20 |  | 1:00 |  |  | Tóm tắt các nội dung và tạo mô hình visual. |  |  |  |  |
 | [ ] | Create teaching materials and lesson plan for Chapter 2 | 2026-10-18 |  |  |  |  | Prepare comprehensive teaching materials and lesson plan, making sure to cover all key topics of Chapter 2 thoroughly. |  |  |  |  |
