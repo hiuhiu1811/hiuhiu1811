@@ -1,5 +1,5 @@
 ---
-last_synced: 2026-10-13T15:19:45.194Z
+last_synced: 2026-10-13T15:24:29.484Z
 total_tasks: 10
 timezone: Asia/Bangkok
 tags:
@@ -12,7 +12,7 @@ tags:
 | :-------- | :-------- | :-------- | :-------- | :-------- | :-------- | :-------- | :-------- | :-------- | :-------- | :-------- | :-------- |
 | [ ] | Chọn mô hình NC cho các grups conseguidos | 2026-10-22 |  | 1:00 |  |  | Picking NC batches for October subgroups. |  |  |  |  |
 | [ ] | Bài tập nhóm Quản trị chiến lược |  |  |  |  |  | This is a group assignment, no deadline has been set. |  |  |  |  |
-| [ ] | Bài tập cá nhân Quản trị chiến lược | 2026-11-20 | 00:00 | 5:00 |  |  | Nikon D4 overview => Delivers versatile performance for cameras |  |  |  |  |
+| [ ] | Bài tập cá nhân Quản trị chiến lược | 2026-11-20 | 00:00 | 5:00 |  |  | Nikon D4 overview => Delivers versatile performance for cameras |  | 8pukcgbe5mv3chbvnmmnt4bto8 |  |  |
 | [ ] | Bài tập nhóm quản trị chất lượng |  |  |  |  |  | Nhóm ứng dụng các công cụ quản trị chất lượng. |  |  |  |  |
 | [ ] | Gửi phản biện Cogent | 2026-10-17 |  | 1:00 |  |  | Handle Cogent's objection with insights and details until Oct 17th. |  |  |  |  |
 | [ ] | Soạn slide hội thảo | 2026-10-20 |  | 1:00 |  |  | Tóm tắt các nội dung và tạo mô hình visual. |  |  |  |  |
